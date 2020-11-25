@@ -7,7 +7,7 @@ The deep learning models are based on Tensorflow/Keras
 Please download the dataset from the website.
 There is also data description and annotation for the dataset. 
 
-There is also a really similar dataset on [Kaggle](https://www.kaggle.com/shayanfazeli/heartbeathttps://www.kaggle.com/shayanfazeli/heartbeat). 
+There is also a really similar dataset on [Kaggle](https://www.kaggle.com/shayanfazeli/heartbeat). 
 
 The dataset is quite good for practicing deep learning. However, we have noticed that two-channel ECG recordings were obtained only from 47 subjects, although the data samples are a lot. \
 It would be better that we can separate between the subjects, but the data we obtained were already mixed. There was a doubt on overfitting and data were not really generalized. \
