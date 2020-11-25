@@ -18,9 +18,9 @@ First, we did data splitting in ```RawData_split.py``` to get the annotation cor
 in ```utils.py``` one can find how we prepare data. \
 ```split``` which splits the dataset into training set, validation set and test set. \
 ```upsample``` which is a function sklearn, trying to resample the different classes of data, due to the lack of some sample classes.\
-Here was because the normal ECG samples are too more than the samples of other classes. \
+Here was because the normal ECG samples are too more than the samples of other classes. 
 
-```ecg2fig``` which enables one to plot the a single ecg sample into an image. \
+```ecg2fig``` which enables one to plot the a single ecg sample into an image. 
 
 ```spectrogram``` which transfers the signal into spectrogram to have a frequency view of the samples.
 
