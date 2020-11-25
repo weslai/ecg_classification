@@ -1,0 +1,8 @@
+pandas
+wfdb
+matplotlib
+scipy
+tqdm
+tensorflow-gpu
+seaborn
+scikit-learn
